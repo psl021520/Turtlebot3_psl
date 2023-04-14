@@ -1,0 +1,7 @@
+<launch>
+
+ <!-- The show_pathnode-->
+  <node name="show_path" type="show_path" pkg="show_path" output="screen">
+  </node>
+
+</launch>
